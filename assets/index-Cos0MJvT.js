@@ -72,7 +72,7 @@ Error generating stack: `+u.message+`
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Jf=[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"1d0kgt"}]],qf=Li("house",Jf),bf="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODgiIGhlaWdodD0iODgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBvcGFjaXR5PSIuMyIgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIzLjciPjxyZWN0IHg9IjE2IiB5PSIxNiIgd2lkdGg9IjU2IiBoZWlnaHQ9IjU2IiByeD0iNiIvPjxwYXRoIGQ9Im0xNiA1OCAxNi0xOCAzMiAzMiIvPjxjaXJjbGUgY3g9IjUzIiBjeT0iMzUiIHI9IjciLz48L3N2Zz4KCg==";function ed(x){const[N,m]=qe.useState(!1),H=()=>{m(!0)},{src:O,alt:F,style:Y,className:A,...B}=x;return N?z.jsx("div",{className:`inline-block bg-gray-100 text-center align-middle ${A??""}`,style:Y,children:z.jsx("div",{className:"flex items-center justify-center w-full h-full",children:z.jsx("img",{src:bf,alt:"Error loading image",...B,"data-original-url":O})})}):z.jsx("img",{src:O,alt:F,className:A,style:Y,...B,onError:H})}function td({onReturnToLetter:x}){const[N,m]=qe.useState(0),[H,O]=qe.useState(!1),[F,Y]=qe.useState("next"),A=[{title:"We play Stardew valley",imageUrl:"src/media/Stardew.jpg",content:`ครั้งนี้คงเป็นครั้งที่สองที่เราเล่นด้วยกัน
+ */const Jf=[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"1d0kgt"}]],qf=Li("house",Jf),bf="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODgiIGhlaWdodD0iODgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBvcGFjaXR5PSIuMyIgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIzLjciPjxyZWN0IHg9IjE2IiB5PSIxNiIgd2lkdGg9IjU2IiBoZWlnaHQ9IjU2IiByeD0iNiIvPjxwYXRoIGQ9Im0xNiA1OCAxNi0xOCAzMiAzMiIvPjxjaXJjbGUgY3g9IjUzIiBjeT0iMzUiIHI9IjciLz48L3N2Zz4KCg==";function ed(x){const[N,m]=qe.useState(!1),H=()=>{m(!0)},{src:O,alt:F,style:Y,className:A,...B}=x;return N?z.jsx("div",{className:`inline-block bg-gray-100 text-center align-middle ${A??""}`,style:Y,children:z.jsx("div",{className:"flex items-center justify-center w-full h-full",children:z.jsx("img",{src:bf,alt:"Error loading image",...B,"data-original-url":O})})}):z.jsx("img",{src:O,alt:F,className:A,style:Y,...B,onError:H})}function td({onReturnToLetter:x}){const[N,m]=qe.useState(0),[H,O]=qe.useState(!1),[F,Y]=qe.useState("next"),A=[{title:"We play Stardew valley",imageUrl:"media/Stardew.jpg",content:`ครั้งนี้คงเป็นครั้งที่สองที่เราเล่นด้วยกัน
       
 ครั้งนี้น่าจะเป็นหลังจากที่เราได้เป็นคนคุยกันแล้วใช่มั้ยนะ ครั้งนี้เค้าสามารภาพเลยล่ะว่าอยากขอแต่งงานในเกมมากก
 
@@ -80,20 +80,20 @@ Error generating stack: `+u.message+`
 
 
 ขนาดตอนนี้ที่เค้านั่งพิมพ์อยู่ยังเขินมากเลย
-ยิ้มน้อยยิ้มใหญ่เลย555555`},{title:"We hangout together really often",imageUrl:"src/media/Meet.jpg",content:`เราไปเที่ยวด้วยกันบ่อยมากกก
+ยิ้มน้อยยิ้มใหญ่เลย555555`},{title:"We hangout together really often",imageUrl:"media/Meet.jpg",content:`เราไปเที่ยวด้วยกันบ่อยมากกก
       
 ภาพที่ยกมามันอาจจะน้อยมากๆเลย แต่เค้าพยายามจัดเลย์เอาท์น่ะ555
 เอาเป็นว่าเราไปไหนด้วยกันบ่อยมากๆเลย ไปกิน ไปเล่น ไปเที่ยวกัน
 
 นี่ยังไม่รวมที่เธอมาหาอีกนะ ไหนจะไปบางแสนอีก เราไปกันหลายที่มากแค่ 2 เดือนเอง
 
-เค้ามีความสุขมากๆเลยล่ะช่วงเวลาที่ผ่านที่เราได้ใช้ร่วมกัน`},{title:"What you mean to me",imageUrl:"src/media/Mean.jpg",content:`ถ้าถามเค้าว่าเธอมีความหมายกับเค้าแค่ไหน
+เค้ามีความสุขมากๆเลยล่ะช่วงเวลาที่ผ่านที่เราได้ใช้ร่วมกัน`},{title:"What you mean to me",imageUrl:"media/Mean.jpg",content:`ถ้าถามเค้าว่าเธอมีความหมายกับเค้าแค่ไหน
       
 เค้าว่า เค้าคงต้องใช้เวลาซัก 1 วันเต็มๆในการอธิบาย หรืออาจจะมากกว่าซะอีก
 
 เค้าอยากจะบอกเธอจริงๆนะคับ ว่าเธอน่ะมีความหมายกับเค้ามากๆเลย ไม่รู้จะบอกยังไงดีให้หมด555 แต่นั่นแหละ เธอมีความหมายกับเค้ามากๆ
 
-เธอเป็นโลกทั้งใบที่เค้าอาศัยอยู่ เป็นความสุขในทุกวัน เป็นทุกอย่างที่เค้าจะนึกได้เลย`},{title:"Till the end that I doesn't know",imageUrl:"src/media/TillEnd.jpg",content:`สุดท้ายนี้ก่อนที่หน้าจดหมายนี้จะหมดลง
+เธอเป็นโลกทั้งใบที่เค้าอาศัยอยู่ เป็นความสุขในทุกวัน เป็นทุกอย่างที่เค้าจะนึกได้เลย`},{title:"Till the end that I doesn't know",imageUrl:"media/TillEnd.jpg",content:`สุดท้ายนี้ก่อนที่หน้าจดหมายนี้จะหมดลง
       
 เค้าอยากบอกกับเธอว่า อยู่เป็นความสุขของกันและกันไปนานๆนะครับ อยู่ไปเรื่อยๆเลย เพราะทั้งเค้าและเธอต่างก็ไม่มีใครรู้ถึงอนาคตหรอกว่าจะเป็นยังไง
 
