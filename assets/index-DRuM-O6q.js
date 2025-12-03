@@ -74,17 +74,17 @@ Error generating stack: `+u.message+`
  * See the LICENSE file in the root directory of this source tree.
  */const Jf=[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"1d0kgt"}]],qf=To("house",Jf);function bf({src:x,alt:N,fallback:m="/image/fallback.png",className:H="",style:M,...F}){const[X,A]=qe.useState(!1),V=X?m:x;return L.jsx("img",{src:String(V),alt:N,className:H,style:M,onError:()=>A(!0),...F})}function ed({onReturnToLetter:x}){const[N,m]=qe.useState(0),[H,M]=qe.useState(!1),[F,X]=qe.useState("next"),A=[{title:"We play Stardew valley",imageUrl:"image/Stardew.jpg",content:`ครั้งนี้คงเป็นครั้งที่สองที่เราเล่นด้วยกัน
       
-ครั้งนี้น่าจะเป็นหลังจากที่เราได้เป็นคนคุยกันแล้วใช่มั้ยนะ ครั้งนี้เค้าสามารภาพเลยล่ะว่าอยากขอแต่งงานในเกมมากก
+ครั้งนี้น่าจะเป็นหลังจากที่เราได้เป็นคนคุยกันแล้วใช่มั้ยนะ ครั้งนี้เค้าสารภาพเลยล่ะว่าอยากขอแต่งงานในเกมมากก
 
-โมเมนท์ที่เค้าชอบมากๆเลยคือตอนที่เค้ากำลังสารภารพเธอแล้วเอาแหวนยื่นให้ เค้าเขินมากๆเลยล่ะ
+โมเมนท์ที่เค้าชอบมากๆเลยคือตอนที่เค้ากำลังสารภาพเธอแล้วเอาแหวนยื่นให้ เค้าเขินมากๆเลยล่ะ
 
-
-ขนาดตอนนี้ที่เค้านั่งพิมพ์อยู่ยังเขินมากเลย
+ขนาดตอนนี้ที่เค้านั่งพิมพ์อยู่ยังเขินมากเลย ตอนนั้นคือทำตัวไม่ถูกจริงๆ
 ยิ้มน้อยยิ้มใหญ่เลย555555`},{title:"We hangout together really often",imageUrl:"image/Meet.jpg",content:`เราไปเที่ยวด้วยกันบ่อยมากกก
       
-ภาพที่ยกมามันอาจจะน้อยมากๆเลย แต่เค้าพยายามจัดเลย์เอาท์น่ะ555
-เอาเป็นว่าเราไปไหนด้วยกันบ่อยมากๆเลย ไปกิน ไปเล่น ไปเที่ยวกัน
+ภาพที่ยกมามันอาจจะน้อยไปหน่อยเพราะเราไปกันหลายที่มาก เค้าอยากใส่เยอะๆแต่ขี้เกียจ
+เดี๋ยวเค้ามาทำให้เพิ่มนะคับ เค้าพยายามจัดเลย์เอาท์น่ะเลยไม่เริ่ด555
 
+เอาเป็นว่าเราไปไหนด้วยกันบ่อยมากๆเลย ไปกิน ไปเล่น ไปเที่ยวกัน
 นี่ยังไม่รวมที่เธอมาหาอีกนะ ไหนจะไปบางแสนอีก เราไปกันหลายที่มากแค่ 2 เดือนเอง
 
 เค้ามีความสุขมากๆเลยล่ะช่วงเวลาที่ผ่านที่เราได้ใช้ร่วมกัน`},{title:"What you mean to me",imageUrl:"image/Mean.jpg",content:`ถ้าถามเค้าว่าเธอมีความหมายกับเค้าแค่ไหน
@@ -99,12 +99,12 @@ Error generating stack: `+u.message+`
 
 เค้าจะไม่ขออะไรจากเธอแม้แต่อย่างเดียว เพราะที่เธอให้มาทั้งหมด มันมากกว่าที่โลกนี้จะให้เค้ามาอีก
 
-อย่าว่าตัวเอง ดูแลตัวเองดีๆ อย่าดื้อ เธอเป็นคนเก่งมากๆเลย อย่าด้อยค่าตัเองเลยนะ
+อย่าว่าตัวเอง ดูแลตัวเองดีๆ อย่าดื้อ เธอเป็นคนเก่งมากๆเลย อย่าด้อยค่าตัวเองเลยนะ
 
 ครั้งไหนที่เธอท้อเค้าอยู่ตรงนี้ จะคอยกอดปลอบใจ เป็นไออุ่นอยู่ตรงนี้เสมอ
 
 ถึงเค้าจะไม่ใช่คนดีอะไรแต่เค้าหวังดีกับเธอมากๆเลย เค้าจะอยู่ตรงนี้เสมอนะคับ
 
-วันไหนทีล้มเค้าจะคอยรับ วันไหนที่ประสบความสำเร็จ คนที่ปรบมือดังที่สุด คือเค้าเอง
+วันไหนที่ล้มเค้าจะคอยรับ วันไหนที่ประสบความสำเร็จ คนที่ปรบมือดังที่สุด คือเค้าเอง
 
 รักเธอนะ`}],V=()=>{N<A.length-1&&!H&&(M(!0),X("next"),setTimeout(()=>{m(N+1),M(!1)},600))},pe=()=>{N>0&&!H&&(M(!0),X("prev"),setTimeout(()=>{m(N-1),M(!1)},600))},fe="/Anniversary.github.io/"+A[N].imageUrl;return L.jsxs("div",{className:"min-h-screen flex items-center justify-center p-4 py-20",children:[L.jsxs("button",{onClick:x,className:"fixed top-6 left-6 flex items-center gap-2 px-4 py-2 bg-white text-blue-500 rounded-full shadow-lg hover:shadow-xl hover:bg-blue-50 transition-all z-50",children:[L.jsx(qf,{size:20}),L.jsx("span",{children:"Back to Letter"})]}),L.jsxs("div",{className:"relative w-full max-w-4xl",style:{perspective:"2000px"},children:[L.jsx("div",{className:"absolute inset-0 bg-white rounded-lg transform translate-x-2 translate-y-2 opacity-30"}),L.jsx("div",{className:"absolute inset-0 bg-white rounded-lg transform translate-x-1 translate-y-1 opacity-50"}),L.jsxs("div",{className:`relative bg-white rounded-lg shadow-2xl overflow-hidden ${H?F==="next"?"animate-pageFlipNext":"animate-pageFlipPrev":"animate-fadeIn"}`,style:{boxShadow:"0 25px 50px -12px rgba(59, 130, 246, 0.25)",transformStyle:"preserve-3d"},children:[L.jsxs("div",{className:"bg-gradient-to-r from-blue-100 via-sky-50 to-blue-100 border-b-4 border-blue-300 p-6",children:[L.jsx("h2",{className:"text-blue-700 text-center",children:A[N].title}),L.jsx("div",{className:"flex justify-center gap-2 mt-4",children:A.map((te,G)=>L.jsx("div",{className:`h-2 rounded-full transition-all duration-300 ${G===N?"w-8 bg-blue-500":"w-2 bg-blue-200"}`},G))})]}),L.jsx("div",{className:"p-8 md:p-12",children:L.jsxs("div",{className:"grid md:grid-cols-2 gap-8 items-start",children:[L.jsx("div",{className:"order-2 md:order-1",children:L.jsx("div",{className:"relative rounded-lg overflow-hidden shadow-lg border-4 border-blue-100",children:L.jsxs("div",{className:"aspect-square bg-gradient-to-br from-blue-50 to-sky-100 flex items-center justify-center",children:[L.jsx(bf,{src:fe,alt:A[N].title,className:"w-full h-full object-cover"}),L.jsx("div",{className:"absolute top-2 right-2 w-8 h-8 border-t-4 border-r-4 border-blue-300"}),L.jsx("div",{className:"absolute bottom-2 left-2 w-8 h-8 border-b-4 border-l-4 border-blue-300"})]})})}),L.jsxs("div",{className:"order-1 md:order-2",children:[L.jsx("div",{className:"prose prose-blue max-w-none",children:L.jsx("div",{className:"text-gray-700 whitespace-pre-line leading-relaxed",children:A[N].content})}),L.jsxs("div",{className:"mt-8 pt-6 border-t border-blue-100",children:[L.jsx("p",{className:"text-blue-400 text-right",children:"With all my love ❤️"}),L.jsx("p",{className:"text-blue-300 text-right mt-2",children:"Ai Kloa"})]})]})]})}),L.jsxs("div",{className:"flex justify-between items-center p-6 bg-gradient-to-r from-blue-50 via-sky-50 to-blue-50 border-t border-blue-100",children:[L.jsxs("button",{onClick:pe,disabled:N===0,className:`flex items-center gap-2 px-6 py-3 rounded-full transition-all ${N===0?"bg-gray-200 text-gray-400 cursor-not-allowed":"bg-blue-500 text-white hover:bg-blue-600 shadow-lg hover:shadow-xl"}`,children:[L.jsx(Xf,{size:20}),L.jsx("span",{children:"Previous"})]}),L.jsxs("div",{className:"text-blue-400",children:["Page ",N+1," of ",A.length]}),L.jsxs("button",{onClick:V,disabled:N===A.length-1,className:`flex items-center gap-2 px-6 py-3 rounded-full transition-all ${N===A.length-1?"bg-gray-200 text-gray-400 cursor-not-allowed":"bg-blue-500 text-white hover:bg-blue-600 shadow-lg hover:shadow-xl"}`,children:[L.jsx("span",{children:"Next"}),L.jsx(Zf,{size:20})]})]})]})]})]})}const td="/Anniversary.github.io/assets/Perfect_Pun-BgRQLzJU.mp3",nd="/Anniversary.github.io/assets/Perfect_Pun-Br92UkkV.ogg";function rd(){const[x,N]=qe.useState(!1),[m,H]=qe.useState(!1),M=qe.useRef(null),F=()=>{N(!0),M.current&&M.current.play().catch(A=>{console.log("Autoplay prevented:",A)}),setTimeout(()=>{H(!0)},1500)},X=()=>{H(!1),N(!1)};return L.jsxs("div",{className:"min-h-screen bg-gradient-to-br from-blue-50 via-blue-100 to-sky-100 overflow-hidden",children:[L.jsxs("audio",{ref:M,loop:!0,children:[L.jsx("source",{src:td,type:"audio/mpeg"}),L.jsx("source",{src:nd,type:"audio/ogg"})]}),m?L.jsx(ed,{onReturnToLetter:X}):L.jsx(Hf,{isOpen:x,onClick:F})]})}Bf.createRoot(document.getElementById("root")).render(L.jsx(rd,{}));
